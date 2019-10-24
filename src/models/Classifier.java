@@ -14,4 +14,8 @@ public class Classifier {
 		}
 		return nome + parametros;
 	}
+// Muito bom! Porém falta inclusões necessárias.
 }
+
+
+
